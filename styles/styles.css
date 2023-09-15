@@ -144,25 +144,25 @@
 	.elem1 {
 		position: absolute;
 		left: 70px;
-		bottom: -750px;
+		bottom: -500px;
 	}
 
 	.elem2 {
 		position: absolute;
-		bottom: -1070px;
+		bottom: -820px;
 		left: 100px;
 	}
 
 	.elem3 {
 		position: absolute;
-		bottom: -1030px;
+		bottom: -770px;
 		right: 20px;
 	}
 
 	.elem4 {
 		position: absolute;
 		right: 110px;
-		bottom: -730px;
+		bottom: -475px;
 	}
 
 	.about_musik-container {
