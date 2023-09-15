@@ -43,7 +43,7 @@
 
 	.nav_link2,
 	.nav_link3 {
-		background-image: url('images/arrow-down.png');
+		background-image: url('/images/arrow-down.png');
 		background-repeat: no-repeat;
 		background-position: right center;
 		padding-right: 15px;
@@ -217,7 +217,7 @@
 		font-weight: 700;
 		font-size: 16px;
 		padding-right: 40px;
-		background-image: url('images/Vector.png');
+		background-image: url('/images/Vector.png');
 		background-repeat: no-repeat;
 		background-position: right;
 	}
@@ -270,7 +270,7 @@
 		font-weight: 700;
 		font-size: 16px;
 		padding-right: 40px;
-		background-image: url('images/Vector.png');
+		background-image: url('/images/Vector.png');
 		background-repeat: no-repeat;
 		background-position: right;
 	}
