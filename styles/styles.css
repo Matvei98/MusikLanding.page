@@ -1,4 +1,4 @@
-
+@media screen and (min-width: 1121px) {
 	body {
 		margin: 0;
 		overflow-x: hidden;
@@ -15,7 +15,7 @@
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		padding-top: 35px;	
+		padding-top: 35px;
 	}
 
 	.header_logo {
@@ -160,7 +160,7 @@
 	}
 
 	.elem4 {
-		position:absolute;
+		position: absolute;
 		right: 110px;
 		bottom: -730px;
 	}
@@ -178,10 +178,13 @@
 		position: relative;
 		bottom: -150px;
 	}
-	.about_musik_header h2, .about_singers_header h2{
+
+	.about_musik_header h2,
+	.about_singers_header h2 {
 		font-family: Montserrat;
 		font-weight: 700;
 	}
+
 	.about_musik_item {
 		display: flex;
 		flex-direction: column;
@@ -342,10 +345,12 @@
 		flex-direction: column;
 		align-items: center;
 	}
-.article_section2 h2{
-	font-family: Montserrat;
+
+	.article_section2 h2 {
+		font-family: Montserrat;
 		font-weight: 700;
-}
+	}
+
 	.article_section2_pic1 {
 		position: relative;
 		right: 770px;
@@ -462,8 +467,8 @@
 		color: #381DDB;
 		background-color: #FFFFFF;
 	}
-	
-	
+
+
 
 	.card_item_button2,
 	.form_button p {
@@ -471,7 +476,7 @@
 		font-weight: 700;
 		color: #FFFFFF;
 		font-size: 16px;
-		
+
 	}
 
 	.card_item_button2 {
@@ -625,3 +630,4 @@
 		margin-top: 70px;
 
 	}
+}
